@@ -87,11 +87,6 @@ Si deseas contribuir a este proyecto:
 
 4. Sube los cambios a tu repositorio fork y abre un Pull Request hacia este repositorio.
 
-## Licencia
-
-Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más información.
-
----
 
 ¡Gracias por usar **HexagonalWeb**! Si tienes alguna pregunta o sugerencia, no dudes en abrir un [issue](https://github.com/lNimien/HexagonalWeb/issues).
 
